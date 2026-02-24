@@ -7,9 +7,6 @@
 <div align="center">
   <p><b>Bridging the gap between Business Logic & System Architecture.</b></p>
   <p>Currently studying Management & Computer Science at Chiang Mai University (CMU). My goal is to orchestrate technology and data to solve complex business problems, from algorithmic trading to AI-driven products.</p>
-  <br>
-  <a href="mailto:wutphaisan.p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/welltilln"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <hr>
