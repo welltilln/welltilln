@@ -54,6 +54,10 @@ A Bank-Grade Personal Asset Management System inside a pure Terminal UI (TUI).
 * **Problem Solved:** Traditional spreadsheets lack automated auditing, strict risk controls, and programmatic portfolio rebalancing.
 * **Architecture:** Uses a Model-View-Controller (MVC) structure in a terminal interface to orchestrate wealth calculation, FX tracking, and absolute financial auditing.
 * **Role:** Backend Engineer
+* **Live System Preview:**
+<p align="center">
+  <img src="yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
+</p>
 
 🔒 *Private Repository (Core Infrastructure)*
 
