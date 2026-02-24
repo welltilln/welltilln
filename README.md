@@ -4,8 +4,6 @@
 
 <div align="center">
   <p><b>Bridging the gap between Business Logic & System Architecture.</b></p>
-  <br>
-  <a href="mailto:wutphaisan.p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <hr>
@@ -34,7 +32,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="wutphaisan's stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="wutphaisan's stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=welltilln&theme=default&hide_border=true" alt="wutphaisan's streak" width="48%" />
 </div>
 
