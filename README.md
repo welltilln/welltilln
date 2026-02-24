@@ -108,6 +108,16 @@ An Algorithmic Trading system engineered specifically to beat FTMO challenges.
 
 <br><br><br>
 
+<h1 align="center">🌱 Currently Exploring & Learning</h1>
+<p align="center"><i>Constantly expanding my horizons to build better systems.</i></p>
+<div align="center">
+  <img src="https://img.shields.io/badge/System_Design_Architecture-1c1c1c?style=flat-square" />
+  <img src="https://img.shields.io/badge/Advanced_Textual_TUI-1c1c1c?style=flat-square" />
+  <img src="https://img.shields.io/badge/Quantitative_Risk_Models-1c1c1c?style=flat-square" />
+</div>
+
+<br><br><br>
+
 <h1 align="center">📈 GitHub Activity & Statistics</h1>
 
 <div align="center">
