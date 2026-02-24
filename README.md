@@ -26,6 +26,10 @@ An AI-powered LINE Official Account acting as a personal nutritionist. It utiliz
 * **Problem Solved:** Manual calorie tracking is tedious and prone to human error.
 * **Architecture:** Python/FastAPI backend serving LINE Webhooks, integrated with Gemini's native session memory to keep track of a user's daily consumption.
 * **Role:** Product Maker & Developer
+* **Live System Preview:**
+<p align="center">
+  <img src="howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
+</p>
 
 🔗 **[View Repository](https://github.com/welltilln/howmanycals)**
 
