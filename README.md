@@ -32,7 +32,7 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="wutphaisan's stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="wutphaisan's stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=welltilln&theme=default&hide_border=true" alt="wutphaisan's streak" width="48%" />
 </div>
 
