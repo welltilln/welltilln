@@ -26,12 +26,6 @@
 
 ---
 
-### At a Glance
-
-Business Administration student at Chiang Mai University with a cross-faculty CS minor, C1-level English proficiency, and dual Cybersecurity certifications. Former Event Production Lead for a large-scale music festival and freelance Database Consultant for a public company. Currently seeking BA/DA roles where both business acumen and technical skills are valued.
-
----
-
 ### Featured Projects
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
@@ -77,7 +71,7 @@ Business Administration student at Chiang Mai University with a cross-faculty CS
 | **Business and Strategy** | Requirements Gathering, Process Mapping, System Analysis, Business Research, Linear Programming |
 | **Data Analysis** | SQL (PostgreSQL/SQLite), Python (Pandas/NumPy), Power BI, Quantitative Analysis, Data Integration |
 | **Development and Ops** | FastAPI, Docker, Linux Administration, Bash Scripting, Git, API Integration |
-| **Security** | VAPT, Network Security (Certiport IT Specialist + VAPT Penetration Tester certified) |
+| **Security** | VAPT, Network Security |
 | **AI and Automation** | LLM Integration (Gemini/GPT/Claude), Prompt Engineering, AI Coding Assistants, AI Image Generation |
 | **Software** | Microsoft Excel/Word/PowerPoint, Power BI, Canva, DaVinci Resolve |
 | **Soft Skills** | High EQ, Composure under Pressure, Pragmatic Problem Solving, C1 English, Cross-functional Collaboration |
