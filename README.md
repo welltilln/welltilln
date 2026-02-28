@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20and%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
 </div>
 
 <br>
 
 <div align="center">
-  <h2><b>Management and Computer Science at Chiang Mai University</b></h2>
-  <p>Systematic approach to business process automation and data-driven analysis.</p>
+  <h2><b>Bridging Business Strategy with Technical Execution</b></h2>
+  <p>Final-term Management & Computer Science student at Chiang Mai University, focused on data-driven decision making and process automation.</p>
 </div>
 
 <br>
@@ -21,116 +21,71 @@
 
 <br>
 
-### howmanycals
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/welltilln/howmanycals)
-[![Gemini Vision](https://img.shields.io/badge/Google_Gemini_Vision-orange?style=flat-square)](#)
-
-An AI-powered LINE Official Account acting as a personal nutritionist. It utilizes Google's Gemini Vision to x-ray food images and extract exact calorie counts.
-* **Technology:** Python, FastAPI, Google Gemini API, LINE Messaging API.
-* **Implementation:** Receives image webhooks and processes them using multimodal AI models to return structured nutritional data.
-
-<p align="center">
-  <img src="howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
-</p>
-
-**[View Repository](https://github.com/welltilln/howmanycals)**
+> [!NOTE]
+> **Global Infrastructure Standard:** Most core projects below are built with a standardized **multi-language infrastructure**, providing documentation and interfaces in 5 languages (EN, TH, ZH, JA, KO) to ensure maximum accessibility and data integrity across diverse user bases.
 
 ---
 
-### fastapi-line-gemini
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/welltilln/fastapi-line-gemini)
+### 📊 Featured Projects
 
-A boilerplate repository for creating LINE bots integrated with Gemini AI.
-* **Purpose:** Provides a starting point for building messaging-based AI tools with proper environment configuration and API handling.
+#### [howmanycals](https://github.com/welltilln/howmanycals)
+**AI-Powered Nutritionist LINE Bot**
+*   **Role:** Product Maker & Data Integrator
+*   **Impact:** Developed a production-ready vision-based AI bot that converts unstructured food images into structured nutritional data.
+*   **Tech Stack:** Python, FastAPI, Google Gemini Vision API, SQLite (Persistent Memory).
+*   **Key Achievement:** Implemented a persistent daily calorie tracking system with automatic midnight reset logic.
 
-**[View Repository](https://github.com/welltilln/fastapi-line-gemini)**
+#### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
+**Enterprise-Grade AI Bot Boilerplate**
+*   **Role:** Systems Architect
+*   **Impact:** Created a scalable starter kit for integrating LLMs with messaging platforms, significantly reducing development time for AI specialized tools.
+*   **Tech Stack:** Python, Docker, Ngrok, LINE Messaging API.
+*   **Key Achievement:** Standardized localization across 5 languages, demonstrating meticulous content management.
+
+#### [Yosafe](https://github.com/welltilln/yosafe)
+**Financial Asset Tracking & Auditing System**
+*   **Role:** Backend Engineer (Private Repo)
+*   **Impact:** Built a high-precision ledger system for tracking asset movements, ensuring 100% data reliability for capital auditing.
+*   **Tech Stack:** SQL (PostgreSQL), Python (TUI), Bash.
+
+#### [agent-asylum](https://github.com/welltilln/agent-asylum)
+**AI Agent Failure Analysis Archive**
+*   **Role:** Technical Analyst
+*   **Impact:** A collaborative database documenting logical deadlocks and architectural failures in autonomous AI agents.
+*   **Key Achievement:** Analyzed systemic paradoxes in tool-calling workflows to improve system prompt resilience.
 
 ---
 
-### Yosafe
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
+### 🛠 Technical Skill Set
 
-A personal tool for tracking asset movements and financial transaction logs.
-* **Feature:** Built to handle high-precision data with a PostgreSQL backend to maintain a centralized source of truth for capital assets.
-
-<p align="center">
-  <img src="yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
-</p>
-
-*Private Repository*
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Business & Strategy** | Requirements Gathering, Process Mapping (BPMN), Stakeholder Communication, System Analysis |
+| **Data Analysis** | SQL (PostgreSQL/SQLite), Python (Pandas/NumPy), Data Visualization, Quantitative Analysis |
+| **Development & Ops** | FastAPI, Docker & Docker Compose, Bash Scripting, Version Control (Git), API Integration |
+| **AI & Automation** | LLM Implementation (Gemini/GPT), Multi-language Support Systems, Webhook Management |
 
 ---
 
-### Market Analysis Tools
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-blueviolet?style=flat-square)](#)
-
-Quantitative scripts for analyzing market structure and price action trends using logic-based detection.
-
-*Private Repository*
-
-<br><br><br>
-
-<h1 align="center">Skills</h1>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Business</h3>
-      <ul>
-        <li>Business Process Analysis</li>
-        <li>Requirements Gathering</li>
-        <li>System Analysis and Design</li>
-        <li>Operations Management</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Data</h3>
-      <ul>
-        <li>Python (Pandas)</li>
-        <li>SQL (PostgreSQL / SQLite)</li>
-        <li>Quantitative Analysis</li>
-        <li>Data Integration</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Technical</h3>
-      <ul>
-        <li>FastAPI</li>
-        <li>Docker</li>
-        <li>Bash Scripting</li>
-        <li>LLM API Integration</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br><br><br>
-
-<h1 align="center">GitHub Activity</h1>
+### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="stats view" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=welltilln&theme=default&hide_border=true" alt="streak view" width="48%" />
-  <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=welltilln&layout=compact&theme=default&hide_border=true&langs_count=5&hide=html,css,markdown" alt="top langs" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="stats view" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=welltilln&theme=transparent&hide_border=true" alt="streak view" width="48%" />
 </div>
 
-<br><br>
+---
 
-<h1 align="center">The Builder Workflow</h1>
-
+### 🧠 The Methodology
 ```mermaid
 graph LR
-    A[Business Need] --> B{Analysis}
-    B --> C[Data Integration]
-    C --> D[AI Automation]
-    D --> E[Structural Solution]
-    
-    style E fill:#f9f,stroke:#333,stroke-width:4px
+    A[Business Problem] --> B[Data Modeling]
+    B --> C[Technical Implementation]
+    C --> D[Systematic Solution]
+    style D fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
 ```
 
-<br><br>
-
-<br><br>
-
-<p align="center"><i>Building structural solutions at the intersection of management and data.</i></p>
+<div align="center">
+  <p><i>Leveraging data and technology to build scalable, structural solutions.</i></p>
+  <p><b>Interested in working together?</b> Let's connect on <a href="https://www.linkedin.com/in/welltilln/">LinkedIn</a></p>
+</div>
