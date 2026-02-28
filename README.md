@@ -11,18 +11,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Currently-Chiang_Mai_University-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Data_Analysis_%26_Automation-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-orange?style=flat-square" />
-</div>
-
-<br><br><br>
-
-<h1 align="center">Projects</h1>
-
-<br>
-
 ### howmanycals
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/welltilln/howmanycals)
 [![Gemini Vision](https://img.shields.io/badge/Google_Gemini_Vision-orange?style=flat-square)](#)
@@ -72,43 +60,36 @@ Quantitative scripts for analyzing market structure and price action trends usin
 
 <br><br><br>
 
-<h1 align="center">Connect with me</h1>
-
-<div align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-id]" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wutphaisan.p@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/welltilln">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br><br><br>
-
-<h1 align="center">Technical Stack</h1>
+<h1 align="center">Skills</h1>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3>Business</h3>
-      <img src="https://img.shields.io/badge/Business_Process_Modeling-1c1c1c?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/System_Analysis-1c1c1c?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Operations_Management-1c1c1c?style=flat-square" /><br>
+      <ul>
+        <li>Business Process Analysis</li>
+        <li>Requirements Gathering</li>
+        <li>System Analysis and Design</li>
+        <li>Operations Management</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <h3>Data</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br>
+      <ul>
+        <li>Python (Pandas)</li>
+        <li>SQL (PostgreSQL / SQLite)</li>
+        <li>Quantitative Analysis</li>
+        <li>Data Integration</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
       <h3>Technical</h3>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
+      <ul>
+        <li>FastAPI</li>
+        <li>Docker</li>
+        <li>Bash Scripting</li>
+        <li>LLM API Integration</li>
+      </ul>
     </td>
   </tr>
 </table>
