@@ -23,7 +23,7 @@ An AI-powered LINE Official Account acting as a personal nutritionist. It utiliz
   <img src="howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
-🔗 **[View Repository](https://github.com/welltilln/howmanycals)**
+**[View Repository](https://github.com/welltilln/howmanycals)**
 
 ---
 
@@ -33,7 +33,7 @@ An AI-powered LINE Official Account acting as a personal nutritionist. It utiliz
 A boilerplate repository for creating LINE bots integrated with Gemini AI.
 * **Purpose:** Provides a starting point for building messaging-based AI tools with proper environment configuration and API handling.
 
-🔗 **[View Repository](https://github.com/welltilln/fastapi-line-gemini)**
+**[View Repository](https://github.com/welltilln/fastapi-line-gemini)**
 
 ---
 
@@ -47,7 +47,7 @@ A personal tool for tracking asset movements and financial transaction logs.
   <img src="yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
-🔒 *Private Repository*
+*Private Repository*
 
 ---
 
@@ -56,7 +56,7 @@ A personal tool for tracking asset movements and financial transaction logs.
 
 Quantitative scripts for analyzing market structure and price action trends using logic-based detection.
 
-🔒 *Private Repository*
+*Private Repository*
 
 <br><br><br>
 
@@ -101,7 +101,25 @@ Quantitative scripts for analyzing market structure and price action trends usin
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="stats view" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=welltilln&theme=default&hide_border=true" alt="streak view" width="48%" />
+  <br>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=welltilln&layout=compact&theme=default&hide_border=true&langs_count=5&hide=html,css,markdown" alt="top langs" width="48%" />
 </div>
+
+<br><br>
+
+<h1 align="center">The Builder Workflow</h1>
+
+```mermaid
+graph LR
+    A[Business Need] --> B{Analysis}
+    B --> C[Data Integration]
+    C --> D[AI Automation]
+    D --> E[Structural Solution]
+    
+    style E fill:#f9f,stroke:#333,stroke-width:4px
+```
+
+<br><br>
 
 <br><br>
 
