@@ -124,4 +124,3 @@ graph LR
 <br><br>
 
 <p align="center"><i>Building structural solutions at the intersection of management and data.</i></p>
- 
