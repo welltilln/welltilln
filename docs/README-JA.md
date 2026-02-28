@@ -26,6 +26,12 @@
 
 ---
 
+### 概要
+
+チェンマイ大学経営学部の学生で、学部横断でCSも履修。英語はC1レベル、サイバーセキュリティ資格2つ保持。大規模音楽フェスのプロダクションリードや、上場企業向けデータベースコンサルティングの実務経験あり。ビジネス理解と技術スキルの両方を活かせるBA/DAポジションを希望しています。
+
+---
+
 ### 主なプロジェクト
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
@@ -71,13 +77,16 @@
         <li>要件定義</li>
         <li>システム設計</li>
         <li>部門横断の調整</li>
+        <li>Business Research</li>
+        <li>Linear Programming</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>データ</h3>
       <ul>
-        <li>Python (Pandas)</li>
+        <li>Python (Pandas / NumPy)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
+        <li>Power BI</li>
         <li>定量分析</li>
         <li>複数ソースのデータ統合</li>
       </ul>
@@ -85,10 +94,40 @@
     <td width="33%" valign="top">
       <h3>技術</h3>
       <ul>
-        <li>FastAPI</li>
-        <li>Docker</li>
+        <li>FastAPI / Docker</li>
+        <li>Linux Administration</li>
         <li>Bash Scripting</li>
-        <li>LLM API連携</li>
+        <li>VAPT / Network Security</li>
+        <li>LLM API連携 (Gemini, GPT)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>ソフトウェア</h3>
+      <ul>
+        <li>Microsoft Excel / Word / PowerPoint</li>
+        <li>Canva</li>
+        <li>DaVinci Resolve</li>
+        <li>Git / GitHub</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AIツール</h3>
+      <ul>
+        <li>ChatGPT / Claude / Gemini</li>
+        <li>AI Coding Assistant</li>
+        <li>AI画像生成</li>
+        <li>Prompt Engineering</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>EQが高く、プレッシャー下でも冷静</li>
+        <li>Pragmaticな問題解決</li>
+        <li>英語C1レベル</li>
+        <li>サイバーセキュリティ資格2つ</li>
       </ul>
     </td>
   </tr>

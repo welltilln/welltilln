@@ -26,6 +26,12 @@
 
 ---
 
+### At a Glance
+
+Business Administration student at Chiang Mai University with a cross-faculty CS minor, C1-level English proficiency, and dual Cybersecurity certifications. Former Event Production Lead for a large-scale music festival and freelance Database Consultant for a public company. Currently seeking BA/DA roles where both business acumen and technical skills are valued.
+
+---
+
 ### Featured Projects
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
@@ -66,12 +72,15 @@
 
 ### Technical Skill Set
 
-| Category | Skills & Tools |
+| Category | Skills and Tools |
 | :--- | :--- |
-| **Business & Strategy** | Requirements Gathering, Process Mapping (BPMN), Stakeholder Communication, System Analysis |
-| **Data Analysis** | SQL (PostgreSQL/SQLite), Python (Pandas/NumPy), Data Visualization, Quantitative Analysis |
-| **Development & Ops** | FastAPI, Docker & Docker Compose, Bash Scripting, Version Control (Git), API Integration |
-| **AI & Automation** | LLM Implementation (Gemini/GPT), Multi-language Support Systems, Webhook Management |
+| **Business and Strategy** | Requirements Gathering, Process Mapping, System Analysis, Business Research, Linear Programming |
+| **Data Analysis** | SQL (PostgreSQL/SQLite), Python (Pandas/NumPy), Power BI, Quantitative Analysis, Data Integration |
+| **Development and Ops** | FastAPI, Docker, Linux Administration, Bash Scripting, Git, API Integration |
+| **Security** | VAPT, Network Security (Certiport IT Specialist + VAPT Penetration Tester certified) |
+| **AI and Automation** | LLM Integration (Gemini/GPT/Claude), Prompt Engineering, AI Coding Assistants, AI Image Generation |
+| **Software** | Microsoft Excel/Word/PowerPoint, Power BI, Canva, DaVinci Resolve |
+| **Soft Skills** | High EQ, Composure under Pressure, Pragmatic Problem Solving, C1 English, Cross-functional Collaboration |
 
 ---
 

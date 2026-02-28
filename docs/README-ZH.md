@@ -26,6 +26,12 @@
 
 ---
 
+### 简介
+
+清迈大学工商管理学院学生，跨学院修读 CS。英语 C1 水平，持有 2 项网络安全认证。曾担任大型音乐节技术制作负责人，也为上市公司做过数据库咨询。现在寻找能同时发挥业务理解和技术能力的 BA/DA 岗位。
+
+---
+
 ### 主要项目
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
@@ -71,13 +77,16 @@
         <li>需求定义</li>
         <li>系统设计</li>
         <li>跨部门协调</li>
+        <li>Business Research</li>
+        <li>Linear Programming</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>数据</h3>
       <ul>
-        <li>Python (Pandas)</li>
+        <li>Python (Pandas / NumPy)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
+        <li>Power BI</li>
         <li>定量分析</li>
         <li>多源数据整合</li>
       </ul>
@@ -85,10 +94,40 @@
     <td width="33%" valign="top">
       <h3>技术</h3>
       <ul>
-        <li>FastAPI</li>
-        <li>Docker</li>
-        <li>Bash 脚本</li>
-        <li>LLM API 对接</li>
+        <li>FastAPI / Docker</li>
+        <li>Linux Administration</li>
+        <li>Bash Scripting</li>
+        <li>VAPT / Network Security</li>
+        <li>LLM API 对接 (Gemini, GPT)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>软件</h3>
+      <ul>
+        <li>Microsoft Excel / Word / PowerPoint</li>
+        <li>Canva</li>
+        <li>DaVinci Resolve</li>
+        <li>Git / GitHub</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI 工具</h3>
+      <ul>
+        <li>ChatGPT / Claude / Gemini</li>
+        <li>AI Coding Assistant</li>
+        <li>AI 图像生成</li>
+        <li>Prompt Engineering</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>高EQ，压力下保持冷静</li>
+        <li>Pragmatic 问题解决</li>
+        <li>英语C1水平</li>
+        <li>网络安全认证 2 项</li>
       </ul>
     </td>
   </tr>

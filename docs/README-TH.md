@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h2><b>ใช้ข้อมูลและเทคโนโลยีเป็นเครื่องมือแก้ปัญหาธุรกิจ</b></h2>
-  <p>นักศึกษาปี 4 สาขาการจัดการ และ Computer Science มหาวิทยาลัยเชียงใหม่ สนใจงานที่ต้องคิดวิเคราะห์จากข้อมูลจริง และสร้างระบบที่ทำงานแทนคนได้</p>
+  <h2><b>เด็กบริหารที่ถนัดคอมพิวเตอร์</b></h2>
+  <p>นักศึกษาปี 4 เอกการจัดการ คณะบริหารธุรกิจ และ โท(ข้ามคณะ)Computer Science มหาวิทยาลัยเชียงใหม่ สนใจงานที่ต้องคิดวิเคราะห์จากข้อมูลจริง และสร้างระบบที่ทำงานแทนคนได้</p>
 </div>
 
 <br>
@@ -26,7 +26,13 @@
 
 ---
 
-### ผลงานที่น่าสนใจ
+### สรุปสั้นๆ
+
+นักศึกษาบริหารธุรกิจ ม.เชียงใหม่ ที่เรียน CS ข้ามคณะเพิ่ม ภาษาอังกฤษระดับ C1 มีใบรับรอง Cybersecurity 2 ใบ เคยเป็นหัวหน้าฝ่ายผลิตงานเทศกาลดนตรีขนาดใหญ่ และเคยทำงาน Database Consultant ให้บริษัทมหาชน ตอนนี้สนใจตำแหน่ง BA/DA ที่ได้ใช้ทั้งความเข้าใจธุรกิจและทักษะเทคนิคไปด้วยกัน
+
+---
+
+### ผลงานของผมที่คัดมา
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
 **LINE Bot นักโภชนาการ AI**
@@ -71,13 +77,16 @@
         <li>เก็บ Requirement</li>
         <li>ออกแบบระบบ</li>
         <li>ประสานงานข้ามทีม</li>
+        <li>Business Research</li>
+        <li>Linear Programming</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>ข้อมูล</h3>
       <ul>
-        <li>Python (Pandas)</li>
+        <li>Python (Pandas / NumPy)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
+        <li>Power BI</li>
         <li>วิเคราะห์ข้อมูลเชิงปริมาณ</li>
         <li>รวมข้อมูลจากหลายแหล่ง</li>
       </ul>
@@ -85,10 +94,40 @@
     <td width="33%" valign="top">
       <h3>เทคนิค</h3>
       <ul>
-        <li>FastAPI</li>
-        <li>Docker</li>
+        <li>FastAPI / Docker</li>
+        <li>Linux Administration</li>
         <li>Bash Scripting</li>
-        <li>ต่อ LLM API</li>
+        <li>VAPT / Network Security</li>
+        <li>ต่อ LLM API (Gemini, GPT)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>ซอฟต์แวร์</h3>
+      <ul>
+        <li>Microsoft Excel / Word / PowerPoint</li>
+        <li>Canva</li>
+        <li>DaVinci Resolve</li>
+        <li>Git / GitHub</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI ที่ใช้เป็นประจำ</h3>
+      <ul>
+        <li>ChatGPT / Claude / Gemini</li>
+        <li>AI Coding Assistant</li>
+        <li>AI Image Generation</li>
+        <li>Prompt Engineering</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>EQ สูง ใจเย็นตอนมีปัญหา</li>
+        <li>แก้ปัญหาแบบ Pragmatic</li>
+        <li>ภาษาอังกฤษระดับ C1</li>
+        <li>มีใบรับรอง Cybersecurity 2 ใบ</li>
       </ul>
     </td>
   </tr>

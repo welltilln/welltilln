@@ -26,6 +26,12 @@
 
 ---
 
+### 개요
+
+치앙마이 대학교 경영학부 학생으로, 학부 범위를 넘어 CS도 이수하고 있습니다. 영어 C1 수준, 사이버 보안 자격증 2개 보유. 대규모 음악 페스티벌 프로덕션 리드와 상장사 대상 데이터베이스 컨설팅 경험이 있습니다. 비즈니스 이해와 기술적 능력을 모두 활용할 수 있는 BA/DA 포지션을 찾고 있습니다.
+
+---
+
 ### 주요 프로젝트
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
@@ -71,13 +77,16 @@
         <li>요구사항 정의</li>
         <li>시스템 설계</li>
         <li>부서 간 협업 조율</li>
+        <li>Business Research</li>
+        <li>Linear Programming</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h3>데이터</h3>
       <ul>
-        <li>Python (Pandas)</li>
+        <li>Python (Pandas / NumPy)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
+        <li>Power BI</li>
         <li>정량 분석</li>
         <li>다중 소스 데이터 통합</li>
       </ul>
@@ -85,10 +94,40 @@
     <td width="33%" valign="top">
       <h3>기술</h3>
       <ul>
-        <li>FastAPI</li>
-        <li>Docker</li>
+        <li>FastAPI / Docker</li>
+        <li>Linux Administration</li>
         <li>Bash Scripting</li>
-        <li>LLM API 연동</li>
+        <li>VAPT / Network Security</li>
+        <li>LLM API 연동 (Gemini, GPT)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>소프트웨어</h3>
+      <ul>
+        <li>Microsoft Excel / Word / PowerPoint</li>
+        <li>Canva</li>
+        <li>DaVinci Resolve</li>
+        <li>Git / GitHub</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI 도구</h3>
+      <ul>
+        <li>ChatGPT / Claude / Gemini</li>
+        <li>AI Coding Assistant</li>
+        <li>AI 이미지 생성</li>
+        <li>Prompt Engineering</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Soft Skills</h3>
+      <ul>
+        <li>EQ가 높고 압박 속에서도 침착</li>
+        <li>Pragmatic 문제 해결</li>
+        <li>영어 C1 수준</li>
+        <li>사이버 보안 자격증 2개</li>
       </ul>
     </td>
   </tr>
