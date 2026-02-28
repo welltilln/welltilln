@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h2><b>衔接业务战略与技术落地</b></h2>
-  <p>清迈大学管理与计算机科学专业毕业在即，专注于数据驱动的决策制定和流程自动化。</p>
+  <h2><b>用数据和技术解决实际的业务问题</b></h2>
+  <p>清迈大学管理学与计算机科学大四学生。关注基于真实数据的决策分析，以及能替代重复性工作的自动化系统。</p>
 </div>
 
 <br>
@@ -22,77 +22,73 @@
 <br>
 
 > [!NOTE]
-> **Global Infrastructure Standard:** 以下多数核心项目均基于**标准化的多语言基础设施**构建，提供 5 种语言（英、泰、中、日、韩）的文档和界面，以确保全球用户的易用性和数据完整性。
+> **Global Infrastructure Standard:** 以下核心项目从一开始就提供 5 种语言（英、泰、中、日、韩）的文档和界面。因为我认为，准确的信息只有用读者的语言传达才有意义。
 
 ---
 
-### 精选项目
+### 主要项目
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
-**AI 驱动的营养师 LINE 机器人**
-*   **角色：** 产品负责人 ＆ 数据集成工程师
-*   **影响力：** 开发了一款准生产级的视觉 AI 机器人，可将非结构化的食物图像转换为结构化的营养数据。
-*   **技术栈：** Python, FastAPI, Google Gemini Vision API, SQLite (持久化存储)
-*   **核心成就：** 实现了持久化的每日热量追踪系统及零点自动重置逻辑。
+**AI 营养师 LINE Bot**
+*   **简介：** 拍张食物照片就能告诉你卡路里的 LINE Bot。通过 Gemini Vision 分析图像，输出结构化的营养数据。
+*   **技术：** Python, FastAPI, Google Gemini Vision API, SQLite
+*   **亮点：** 记录每天累计卡路里，零点自动归零。是一个日常真正在用的工具。
 
 <p align="center">
   <img src="../howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
 #### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
-**企业级 AI 机器人开发脚手架**
-*   **角色：** 系统架构师
-*   **影响力：** 打造了一个可扩展的启动套件，用于将大语言模型集成至即时通讯平台，显著缩短了 AI 工具的开发周期。
-*   **技术栈：** Python, Docker, Ngrok, LINE Messaging API
-*   **核心成就：** 标准化了 5 种语言的本地化流程。
+**LINE Bot + AI 现成模板**
+*   **简介：** 为想要把 LLM 接入 LINE Bot 的人设计的模板，不用从零开始写。代码结构方便后续扩展。
+*   **技术：** Python, Docker, Ngrok, LINE Messaging API
+*   **亮点：** 文档和 Bot 本身从第一天起就支持 5 种语言。
 
 #### [Yosafe](https://github.com/welltilln/yosafe)
-**金融资产追踪与审计系统**
-*   **角色：** 后端工程师（私有仓库）
-*   **影响力：** 构建了一个高精度的分类账系统用于追踪资产变动，确保了用于审计的 100% 数据可靠性。
-*   **技术栈：** SQL (PostgreSQL), Python (TUI), Bash
+**资产记录与审计系统**
+*   **简介：** 记录所有资金和资产的流动情况，任何一笔交易都可以追溯验证的个人账本。设计原则是数据准确率必须达到 100%。
+*   **技术：** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
   <img src="../yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
-**AI Agent 失败案例分析档案**
-*   **角色：** 技术分析师
-*   **影响力：** 一个记录自主 AI Agent 逻辑死锁与架构失效的协作数据库。
-*   **核心成就：** 分析了工具调用工作流中的系统性悖论，提升了系统提示词的鲁棒性。
+**AI Agent 故障记录**
+*   **简介：** 记录并分析 AI Agent 因逻辑矛盾而卡死、或因设计缺陷而崩溃的案例。
+*   **亮点：** 分析了 Tool 调用流程中的结构性矛盾，用于改进 System Prompt 的稳定性。
 
 <br><br><br>
 
-<h1 align="center">技能 (Skills)</h1>
+<h1 align="center">技能</h1>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
-      <h3>业务 (Business)</h3>
+      <h3>业务</h3>
       <ul>
         <li>业务流程分析</li>
-        <li>需求收集</li>
-        <li>系统分析与设计</li>
-        <li>运营管理</li>
+        <li>需求定义</li>
+        <li>系统设计</li>
+        <li>跨部门协调</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>数据 (Data)</h3>
+      <h3>数据</h3>
       <ul>
         <li>Python (Pandas)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
-        <li>量化分析</li>
-        <li>数据集成</li>
+        <li>定量分析</li>
+        <li>多源数据整合</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>技术 (Technical)</h3>
+      <h3>技术</h3>
       <ul>
         <li>FastAPI</li>
         <li>Docker</li>
         <li>Bash 脚本</li>
-        <li>LLM API 集成</li>
+        <li>LLM API 对接</li>
       </ul>
     </td>
   </tr>
@@ -100,7 +96,7 @@
 
 <br><br><br>
 
-<h1 align="center">GitHub 活动</h1>
+<h1 align="center">GitHub 动态</h1>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="stats view" width="48%" />
@@ -111,18 +107,18 @@
 
 <br><br>
 
-<h1 align="center">The Builder Workflow</h1>
+<h1 align="center">做事方法</h1>
 
 ```mermaid
 graph LR
-    A[业务需求] --> B{分析}
-    B --> C[数据集成]
-    C --> D[AI 自动化]
-    D --> E[结构化方案]
+    A[业务问题] --> B{分析}
+    B --> C[整理数据]
+    C --> D[AI 辅助]
+    D --> E[可用的系统]
     
     style E fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 <br><br>
 
-<p align="center"><i>在管理与数据的交汇处构建结构化解决方案。</i></p>
+<p align="center"><i>用真实数据解决真实问题，做出真正能用的系统。</i></p>

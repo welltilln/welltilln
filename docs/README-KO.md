@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h2><b>비즈니스 전략과 기술적 실행의 가교</b></h2>
-  <p>치앙마이 대학교 경영 및 컴퓨터 사이언스 전공. 데이터 기반 의사결정과 프로세스 자동화에 집중하고 있습니다.</p>
+  <h2><b>데이터와 기술로 비즈니스 문제를 해결합니다</b></h2>
+  <p>치앙마이 대학교 경영학 및 컴퓨터 사이언스 4학년. 실제 데이터를 바탕으로 의사결정을 내리고, 반복적인 업무를 자동화하는 시스템을 만들고 있습니다.</p>
 </div>
 
 <br>
@@ -22,59 +22,55 @@
 <br>
 
 > [!NOTE]
-> **Global Infrastructure Standard:** 아래의 주요 프로젝트들은 **표준화된 다국어 인프라**를 기반으로 구축되었으며, 5개 언어(EN, TH, ZH, JA, KO)로 문서와 인터페이스를 제공하여 글로벌 접근성과 데이터 무결성을 보장합니다.
+> **Global Infrastructure Standard:** 아래 주요 프로젝트들은 처음부터 5개 언어(EN, TH, ZH, JA, KO)로 문서와 UI를 갖추고 있습니다. 정확한 정보는 읽는 사람의 언어로 전달되어야 의미가 있다고 생각하기 때문입니다.
 
 ---
 
 ### 주요 프로젝트
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
-**AI 기반 영양사 LINE 봇**
-*   **역할:** 프로덕트 메이커 및 데이터 인티그레이터
-*   **임팩트:** 비구조화된 음식 이미지를 구조화된 영양 데이터로 변환하는 실무용 비전 AI 봇 개발.
-*   **기술 스택:** Python, FastAPI, Google Gemini Vision API, SQLite (Persistent Memory)
-*   **주요 성과:** 일일 칼로리 추적 시스템 및 자정 자동 리셋 로직 구현.
+**AI 영양사 LINE Bot**
+*   **소개:** 음식 사진을 찍으면 칼로리를 바로 알려주는 LINE Bot. Gemini Vision으로 이미지를 분석해 영양 데이터를 구조화하여 출력합니다.
+*   **기술:** Python, FastAPI, Google Gemini Vision API, SQLite
+*   **특징:** 하루 누적 칼로리를 기록하고 자정에 자동 리셋. 실생활에서 매일 쓸 수 있는 도구입니다.
 
 <p align="center">
   <img src="../howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
 #### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
-**엔터프라이즈급 AI 봇 보일러플레이트**
-*   **역할:** 시스템 아키텍트
-*   **임팩트:** LLM을 메시징 플랫폼에 통합하기 위한 확장 가능한 스타터 키트를 제작하여 AI 도구 개발 시간을 크게 단축.
-*   **기술 스택:** Python, Docker, Ngrok, LINE Messaging API
-*   **주요 성과:** 5개 언어 로컬라이제이션 표준화.
+**LINE Bot + AI 스타터 키트**
+*   **소개:** LLM과 LINE Bot 연동을 처음부터 작성할 필요 없도록 설계한 템플릿. 코드 확장성을 중심으로 구조화했습니다.
+*   **기술:** Python, Docker, Ngrok, LINE Messaging API
+*   **특징:** 문서와 Bot 모두 처음부터 5개 언어 지원.
 
 #### [Yosafe](https://github.com/welltilln/yosafe)
-**금융 자산 추적 및 감사 시스템**
-*   **역할:** 백엔드 엔지니어 (비공개 저장소)
-*   **임팩트:** 자산 이동을 추적하기 위한 고정밀 장부 시스템을 구축하여 감사 기준 100% 데이터 신뢰성 확보.
-*   **기술 스택:** SQL (PostgreSQL), Python (TUI), Bash
+**자산 기록 및 감사 시스템**
+*   **소개:** 자금과 자산의 움직임을 전부 기록하고, 어떤 거래든 소급해서 검증할 수 있는 개인용 장부. 데이터 정확도 100%가 설계 원칙입니다.
+*   **기술:** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
   <img src="../yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
-**AI 에이전트 장애 분석 아카이브**
-*   **역할:** 기술 분석가
-*   **임팩트:** 자율형 AI 에이전트의 논리적 데드락 및 아키텍처 장애를 기록하는 협업 데이터베이스.
-*   **주요 성과:** 툴 호출 워크플로우의 시스템적 파라독스를 분석하여 시스템 프롬프트의 복원력 향상.
+**AI 에이전트 장애 기록**
+*   **소개:** AI 에이전트가 논리적 모순으로 멈추거나 설계 결함으로 고장 난 사례를 기록하고 분석하는 데이터베이스.
+*   **특징:** Tool 호출 흐름의 구조적 모순을 분석하여 System Prompt 개선에 활용.
 
 <br><br><br>
 
-<h1 align="center">기술 스택 (Skills)</h1>
+<h1 align="center">기술 스택</h1>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3>비즈니스</h3>
       <ul>
-        <li>비즈니스 프로세스 분석</li>
-        <li>요구사항 수집</li>
-        <li>시스템 분석 및 설계</li>
-        <li>운영 관리</li>
+        <li>업무 프로세스 분석</li>
+        <li>요구사항 정의</li>
+        <li>시스템 설계</li>
+        <li>부서 간 협업 조율</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -83,7 +79,7 @@
         <li>Python (Pandas)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
         <li>정량 분석</li>
-        <li>데이터 통합</li>
+        <li>다중 소스 데이터 통합</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -91,8 +87,8 @@
       <ul>
         <li>FastAPI</li>
         <li>Docker</li>
-        <li>Bash 스크립팅</li>
-        <li>LLM API 통합</li>
+        <li>Bash Scripting</li>
+        <li>LLM API 연동</li>
       </ul>
     </td>
   </tr>
@@ -111,18 +107,18 @@
 
 <br><br>
 
-<h1 align="center">The Builder Workflow</h1>
+<h1 align="center">일하는 방식</h1>
 
 ```mermaid
 graph LR
-    A[비즈니스 요구] --> B{분석}
-    B --> C[데이터 통합]
-    C --> D[AI 자동화]
-    D --> E[구조적 솔루션]
+    A[비즈니스 과제] --> B{분석}
+    B --> C[데이터 정리]
+    C --> D[AI 활용]
+    D --> E[실용적인 시스템]
     
     style E fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 <br><br>
 
-<p align="center"><i>경영과 데이터의 교차점에서 구조적 솔루션을 구축함.</i></p>
+<p align="center"><i>실제 문제를 실제 데이터로, 실제로 쓸 수 있는 시스템으로 해결합니다.</i></p>

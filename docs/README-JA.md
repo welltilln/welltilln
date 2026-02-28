@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">
-  <h2><b>ビジネス戦略と技術実行の橋渡し</b></h2>
-  <p>チェンマイ大学 経営学・コンピュータサイエンス専攻。データ駆動型意思決定とプロセス自動化を専門としています。</p>
+  <h2><b>データと技術でビジネスの課題を解く</b></h2>
+  <p>チェンマイ大学 経営学・コンピュータサイエンス専攻 4年。実データに基づく意思決定と、業務を自動化する仕組みづくりに取り組んでいます。</p>
 </div>
 
 <br>
@@ -22,59 +22,55 @@
 <br>
 
 > [!NOTE]
-> **Global Infrastructure Standard:** 以下の主要プロジェクトの多くは、**標準化された多言語インフラストラクチャ**で構築されており、5言語（EN, TH, ZH, JA, KO）でドキュメントとインターフェースを提供しています。
+> **Global Infrastructure Standard:** 以下の主要プロジェクトは、最初から5言語（EN, TH, ZH, JA, KO）のドキュメントとUIを備えています。正確な情報は、読み手の言語で伝えてこそ意味があると考えているからです。
 
 ---
 
-### 注目のプロジェクト
+### 主なプロジェクト
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
-**AI搭載栄養士LINEボット**
-*   **役割:** プロダクトメーカー ＆ データインテグレーター
-*   **インパクト:** 非構造化された食事画像を構造化された栄養データに変換する、実運用可能なビジョンベースAIボットを開発。
-*   **技術スタック:** Python, FastAPI, Google Gemini Vision API, SQLite (Persistent Memory)
-*   **主な成果:** 永続的な日次カロリー追跡システムと自動リセットロジックの実装。
+**AI栄養士 LINE Bot**
+*   **概要:** 食事の写真を撮るだけでカロリーがわかるLINE Bot。Gemini Visionで画像を解析し、栄養データとして構造的に出力します。
+*   **技術:** Python, FastAPI, Google Gemini Vision API, SQLite
+*   **特徴:** 1日の累計カロリーを記録し、深夜0時に自動リセット。日常的に使える実用ツールです。
 
 <p align="center">
   <img src="../howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
 #### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
-**エンタープライズ向けAIボットボイラープレート**
-*   **役割:** システムアーキテクト
-*   **インパクト:** LLMをメッセージングプラットフォームに統合するためのスケーラブルなスターターキットを作成し、AIツールの開発時間を大幅に短縮。
-*   **技術スタック:** Python, Docker, Ngrok, LINE Messaging API
-*   **主な成果:** 5言語にわたるローカリゼーションの標準化。
+**LINE Bot + AI のスターターキット**
+*   **概要:** LLMとLINE Botの連携をゼロから書かなくて済むように設計したテンプレート。コードの拡張性を重視しています。
+*   **技術:** Python, Docker, Ngrok, LINE Messaging API
+*   **特徴:** ドキュメントとBot本体の両方が最初から5言語対応。
 
 #### [Yosafe](https://github.com/welltilln/yosafe)
-**財務資産追跡・監査システム**
-*   **役割:** バックエンドエンジニア (プライベートリポジトリ)
-*   **インパクト:** 資産の動きを追跡するための高精度な台帳システムを構築し、監査のためのデータ信頼性100%を保証。
-*   **技術スタック:** SQL (PostgreSQL), Python (TUI), Bash
+**資産記録・監査システム**
+*   **概要:** 資金やアセットの動きをすべて記録し、どの取引でも遡って検証できる個人用台帳。データの正確性100%を設計方針としています。
+*   **技術:** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
   <img src="../yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
-**AIエージェント障害分析アーカイブ**
-*   **役割:** テクニカルアナリスト
-*   **インパクト:** 自律型AIエージェントにおけるロジカルデッドロックやアーキテクチャ上の失敗を記録する共同データベース。
-*   **主な成果:** ツール呼び出しワークフローにおけるシステム的なパラドックスを分析し、レジリエンスを向上。
+**AIエージェント障害記録**
+*   **概要:** AIエージェントがロジックの矛盾で動けなくなったり、設計上の欠陥で壊れたケースを記録・分析するデータベース。
+*   **特徴:** Tool呼び出しフローの構造的な矛盾を分析し、System Promptの改善に活用。
 
 <br><br><br>
 
-<h1 align="center">スキル (Skills)</h1>
+<h1 align="center">スキル</h1>
 
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top">
       <h3>ビジネス</h3>
       <ul>
-        <li>ビジネスプロセス分析</li>
+        <li>業務フロー分析</li>
         <li>要件定義</li>
-        <li>システム分析・設計</li>
-        <li>運用管理</li>
+        <li>システム設計</li>
+        <li>部門横断の調整</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -82,17 +78,17 @@
       <ul>
         <li>Python (Pandas)</li>
         <li>SQL (PostgreSQL / SQLite)</li>
-        <li>計量分析</li>
-        <li>データ統合</li>
+        <li>定量分析</li>
+        <li>複数ソースのデータ統合</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>テクニカル</h3>
+      <h3>技術</h3>
       <ul>
         <li>FastAPI</li>
         <li>Docker</li>
-        <li>Bashスクリプティング</li>
-        <li>LLM API統合</li>
+        <li>Bash Scripting</li>
+        <li>LLM API連携</li>
       </ul>
     </td>
   </tr>
@@ -100,7 +96,7 @@
 
 <br><br><br>
 
-<h1 align="center">GitHubアクティビティ</h1>
+<h1 align="center">GitHubの記録</h1>
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="stats view" width="48%" />
@@ -111,18 +107,18 @@
 
 <br><br>
 
-<h1 align="center">The Builder Workflow</h1>
+<h1 align="center">仕事の進め方</h1>
 
 ```mermaid
 graph LR
-    A[ビジネスニーズ] --> B{分析}
-    B --> C[データ統合]
-    C --> D[AI自動化]
-    D --> E[構造的ソリューション]
+    A[ビジネスの課題] --> B{分析}
+    B --> C[データ整理]
+    C --> D[AIで効率化]
+    D --> E[実用的なシステム]
     
     style E fill:#f9f,stroke:#333,stroke-width:4px
 ```
 
 <br><br>
 
-<p align="center"><i>経営とデータの交差点で構造的ソリューションを構築する。</i></p>
+<p align="center"><i>実際の課題を、実際のデータで、実際に使えるシステムとして解決する。</i></p>
