@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20@%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20and%20CS%20@%20CMU&descAlignY=55&descAlign=62" />
 </div>
 
 <br>
@@ -31,6 +31,10 @@ An AI-powered LINE Official Account acting as a personal nutritionist. It utiliz
 * **Technology:** Python, FastAPI, Google Gemini API, LINE Messaging API.
 * **Implementation:** Receives image webhooks and processes them using multimodal AI models to return structured nutritional data.
 
+<p align="center">
+  <img src="howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
+</p>
+
 🔗 **[View Repository](https://github.com/welltilln/howmanycals)**
 
 ---
@@ -50,6 +54,10 @@ A boilerplate repository for creating LINE bots integrated with Gemini AI.
 
 A personal tool for tracking asset movements and financial transaction logs.
 * **Feature:** Built to handle high-precision data with a PostgreSQL backend to maintain a centralized source of truth for capital assets.
+
+<p align="center">
+  <img src="yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
+</p>
 
 🔒 *Private Repository*
 
