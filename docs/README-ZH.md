@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20and%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2><b>衔接业务战略与技术落地</b></h2>
+  <p>清迈大学管理与计算机科学专业毕业在即，专注于数据驱动的决策制定和流程自动化。</p>
 </div>
 
 <br>
@@ -12,59 +19,48 @@
     <a href="./README-KO.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=for-the-badge" alt="Korean"></a>
 </p>
 
-<div align="center">
-  <h2><b>清迈大学管理与计算机科学专业</b></h2>
-  <p>以系统化的方法实现业务流程自动化和数据驱动分析。</p>
-</div>
-
 <br>
 
-### howmanycals
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/welltilln/howmanycals)
-[![Gemini Vision](https://img.shields.io/badge/Google_Gemini_Vision-orange?style=flat-square)](#)
+> [!NOTE]
+> **Global Infrastructure Standard:** 以下多数核心项目均基于**标准化的多语言基础设施**构建，提供 5 种语言（英、泰、中、日、韩）的文档和界面，以确保全球用户的易用性和数据完整性。
 
-一款 AI 驱动的 LINE 官方账号，担任个人营养师。它利用 Google 的 Gemini Vision 扫描食物图片并提取精确的卡路里计数。
-* **技术：** Python, FastAPI, Google Gemini API, LINE Messaging API。
-* **实现：** 接收图像 Webhook 并使用多模态 AI 模型进行处理，返回结构化的营养数据。
+---
+
+### 📊 精选项目
+
+#### [howmanycals](https://github.com/welltilln/howmanycals)
+**AI 驱动的营养师 LINE 机器人**
+*   **角色：** 产品负责人 ＆ 数据集成工程师
+*   **影响力：** 开发了一款准生产级的视觉 AI 机器人，可将非结构化的食物图像转换为结构化的营养数据。
+*   **技术栈：** Python, FastAPI, Google Gemini Vision API, SQLite (持久化存储)
+*   **核心成就：** 实现了持久化的每日热量追踪系统及零点自动重置逻辑。
 
 <p align="center">
   <img src="../howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
-**[查看仓库](https://github.com/welltilln/howmanycals)**
+#### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
+**企业级 AI 机器人开发脚手架**
+*   **角色：** 系统架构师
+*   **影响力：** 打造了一个可扩展的启动套件，用于将大语言模型集成至即时通讯平台，显著缩短了 AI 工具的开发周期。
+*   **技术栈：** Python, Docker, Ngrok, LINE Messaging API
+*   **核心成就：** 标准化了 5 种语言的本地化流程。
 
----
-
-### fastapi-line-gemini
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/welltilln/fastapi-line-gemini)
-
-一个用于集成 Gemini AI 的 LINE 机器人开发脚手架仓库。
-* **目的：** 为构建基于消息的 AI 工具提供一个起点，包含完善的环境配置和 API 处理。
-
-**[查看仓库](https://github.com/welltilln/fastapi-line-gemini)**
-
----
-
-### Yosafe
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-一个用于跟踪资产变动和财务交易日志的个人工具。
-* **功能：** 专为处理高精度数据而构建，采用 PostgreSQL 后端以维护资本资产的集中化真相来源。
+#### [Yosafe](https://github.com/welltilln/yosafe)
+**金融资产追踪与审计系统**
+*   **角色：** 后端工程师（私有仓库）
+*   **影响力：** 构建了一个高精度的分类账系统用于追踪资产变动，确保了用于审计的 100% 数据可靠性。
+*   **技术栈：** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
   <img src="../yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
-*私有仓库*
-
----
-
-### 市场分析工具 (Market Analysis Tools)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-blueviolet?style=flat-square)](#)
-
-用于利用基于逻辑的检测分析市场结构和价格走势趋势的量化脚本。
-
-*私ย仓库*
+#### [agent-asylum](https://github.com/welltilln/agent-asylum)
+**AI Agent 失败案例分析档案**
+*   **角色：** 技术分析师
+*   **影响力：** 一个记录自主 AI Agent 逻辑死锁与架构失效的协作数据库。
+*   **核心成就：** 分析了工具调用工作流中的系统性悖论，提升了系统提示词的鲁棒性。
 
 <br><br><br>
 

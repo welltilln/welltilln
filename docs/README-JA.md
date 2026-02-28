@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20and%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2><b>ビジネス戦略と技術実行の橋渡し</b></h2>
+  <p>チェンマイ大学 経営学・コンピュータサイエンス専攻。データ駆動型意思決定とプロセス自動化を専門としています。</p>
 </div>
 
 <br>
@@ -12,59 +19,48 @@
     <a href="./README-KO.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=for-the-badge" alt="Korean"></a>
 </p>
 
-<div align="center">
-  <h2><b>チェンマイ大学 経営学・コンピュータサイエンス専攻</b></h2>
-  <p>ビジネスプロセスの自動化とデータ駆動型分析への体系的なアプローチ。</p>
-</div>
-
 <br>
 
-### howmanycals
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/welltilln/howmanycals)
-[![Gemini Vision](https://img.shields.io/badge/Google_Gemini_Vision-orange?style=flat-square)](#)
+> [!NOTE]
+> **Global Infrastructure Standard:** 以下の主要プロジェクトの多くは、**標準化された多言語インフラストラクチャ**で構築されており、5言語（EN, TH, ZH, JA, KO）でドキュメントとインターフェースを提供しています。
 
-Google Gemini Visionを活用して食事画像をスキャンし、正確なカロリーを抽出するAI搭載のLINE公式アカウント（個人栄養士）。
-* **技術:** Python, FastAPI, Google Gemini API, LINE Messaging API.
-* **実装:** 画像Webhookを受信し、マルチモーダルAIモデルを使用して構造化された栄養データを返します。
+---
+
+### 📊 注目のプロジェクト
+
+#### [howmanycals](https://github.com/welltilln/howmanycals)
+**AI搭載栄養士LINEボット**
+*   **役割:** プロダクトメーカー ＆ データインテグレーター
+*   **インパクト:** 非構造化された食事画像を構造化された栄養データに変換する、実運用可能なビジョンベースAIボットを開発。
+*   **技術スタック:** Python, FastAPI, Google Gemini Vision API, SQLite (Persistent Memory)
+*   **主な成果:** 永続的な日次カロリー追跡システムと自動リセットロジックの実装。
 
 <p align="center">
   <img src="../howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
-**[リポジトリを表示](https://github.com/welltilln/howmanycals)**
+#### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
+**エンタープライズ向けAIボットボイラープレート**
+*   **役割:** システムアーキテクト
+*   **インパクト:** LLMをメッセージングプラットフォームに統合するためのスケーラブルなスターターキットを作成し、AIツールの開発時間を大幅に短縮。
+*   **技術スタック:** Python, Docker, Ngrok, LINE Messaging API
+*   **主な成果:** 5言語にわたるローカリゼーションの標準化。
 
----
-
-### fastapi-line-gemini
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/welltilln/fastapi-line-gemini)
-
-Gemini AIを統合したLINEボット作成のためのボイラープレートリポジトリ。
-* **目的:** 適切な環境設定とAPI処理を備えた、メッセージングベースのAIツール構築の開始点を提供します。
-
-**[リポジトリを表示](https://github.com/welltilln/fastapi-line-gemini)**
-
----
-
-### Yosafe
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-資産移動と財務取引ログを追跡するための個人用ツール。
-* **特徴:** 資本資産の集中管理のために、PostgreSQLバックエンドを使用して高精度データを処理するように構築されています。
+#### [Yosafe](https://github.com/welltilln/yosafe)
+**財務資産追跡・監査システム**
+*   **役割:** バックエンドエンジニア (プライベートリポジトリ)
+*   **インパクト:** 資産の動きを追跡するための高精度な台帳システムを構築し、監査のためのデータ信頼性100%を保証。
+*   **技術スタック:** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
   <img src="../yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
-*プライベートリポジトリ*
-
----
-
-### 市場分析ツール (Market Analysis Tools)
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-blueviolet?style=flat-square)](#)
-
-論理ベースの検出を使用して市場構造と価格アクションのトレンドを分析するための計量スクリプト。
-
-*プライベートリポジトリ*
+#### [agent-asylum](https://github.com/welltilln/agent-asylum)
+**AIエージェント障害分析アーカイブ**
+*   **役割:** テクニカルアナリスト
+*   **インパクト:** 自律型AIエージェントにおけるロジカルデッドロックやアーキテクチャ上の失敗を記録する共同データベース。
+*   **主な成果:** ツール呼び出しワークフローにおけるシステム的なパラドックスを分析し、レジリエンスを向上。
 
 <br><br><br>
 

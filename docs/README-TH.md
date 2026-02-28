@@ -1,5 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20and%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+</div>
+
+<br>
+
+<div align="center">
+  <h2><b>เชื่อมโยงกลยุทธ์ทางธุรกิจเข้ากับการดำเนินงานทางเทคนิค</b></h2>
+  <p>นักศึกษาชั้นปีสุดท้าย สาขา Management และ Computer Science มหาวิทยาลัยเชียงใหม่ มุ่งเน้นการตัดสินใจด้วยข้อมูลและการสร้างระบบอัตโนมัติ</p>
 </div>
 
 <br>
@@ -9,62 +16,51 @@
     <a href="./README-TH.md"><img src="https://img.shields.io/badge/%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2-green?style=for-the-badge" alt="Thai"></a>
     <a href="./README-ZH.md"><img src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-yellow?style=for-the-badge" alt="Chinese"></a>
     <a href="./README-JA.md"><img src="https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-red?style=for-the-badge" alt="Japanese"></a>
-    <a href="./README-KO.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey?style=for-the-badge" alt="Korean"></a>
+    <a href="./README-KO.md"><img src="https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%E9%96%B4-lightgrey?style=for-the-badge" alt="Korean"></a>
 </p>
-
-<div align="center">
-  <h2><b>Management and Computer Science at Chiang Mai University</b></h2>
-  <p>แนวทางการเพิ่มประสิทธิภาพกระบวนการทางธุรกิจโดยใช้ข้อมูลเป็นศูนย์กลาง</p>
-</div>
 
 <br>
 
-### howmanycals
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)](https://github.com/welltilln/howmanycals)
-[![Gemini Vision](https://img.shields.io/badge/Google_Gemini_Vision-orange?style=flat-square)](#)
+> [!NOTE]
+> **Global Infrastructure Standard:** โปรเจคหลักส่วนใหญ่สร้างขึ้นด้วย **โครงสร้างพื้นฐานที่รองรับหลายภาษา (Multi-language Infrastructure)** โดยมีเอกสารและหน้าจอนำเสนอใน 5 ภาษา (EN, TH, ZH, JA, KO) เพื่อให้เข้าถึงได้ง่ายและรักษาความถูกต้องของข้อมูลในระดับสากล
 
-LINE Official Account พลัง AI ที่ทำหน้าที่เป็นนักโภชนาการส่วนตัว โดยใช้ Google Gemini Vision เพื่อสแกนภาพอาหารและคำนวณแคลอรี่ที่แม่นยำ
-* **เทคโนโลยี:** Python, FastAPI, Google Gemini API, LINE Messaging API.
-* **การทำงาน:** รับ Webhook ภาพและประมวลผลโดยใช้ Multimodal AI เพื่อส่งกลับข้อมูลโภชนาการที่มีโครงสร้างชัดเจน
+---
+
+### 📊 โปรเจคที่โดดเด่น
+
+#### [howmanycals](https://github.com/welltilln/howmanycals)
+**LINE Bot นักโภชนาการพลัง AI**
+*   **บทบาท:** Product Maker และ Data Integrator
+*   **ผลลัพธ์:** พัฒนา AI Bot สำหรับใช้งานจริงที่สามารถเปลี่ยนรูปภาพอาหารที่ไม่มีโครงสร้างให้เป็นข้อมูลโภชนาการที่มีโครงสร้างชัดเจน
+*   **เทคโนโลยี:** Python, FastAPI, Google Gemini Vision API, SQLite (Persistent Memory)
+*   **ความสำเร็จหลัก:** ระบบติดตามแคลอรี่รายวันและระบบรีเซ็ตข้อมูลอัตโนมัติเมื่อสิ้นสุดวัน
 
 <p align="center">
   <img src="../howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
 </p>
 
-**[ดู Repository](https://github.com/welltilln/howmanycals)**
+#### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
+**Enterprise-Grade AI Bot Boilerplate**
+*   **บทบาท:** Systems Architect
+*   **ผลลัพธ์:** สร้างชุดเริ่มต้นที่สามารถขยายขีดความสามารถได้ (Scalable) สำหรับการนำ LLM มาใช้กับแพลตฟอร์มรับส่งข้อความ ช่วยลดเวลาในการพัฒนาเครื่องมือ AI เฉพาะทาง
+*   **เทคโนโลยี:** Python, Docker, Ngrok, LINE Messaging API
+*   **ความสำเร็จหลัก:** การจัดการ Localization 5 ภาษาอย่างเป็นระบบ แสดงถึงความใส่ใจในการจัดการเนื้อหา
 
----
-
-### fastapi-line-gemini
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/welltilln/fastapi-line-gemini)
-
-Boilerplate สำหรับสร้าง LINE Bot ที่ทำงานร่วมกับ Gemini AI
-* **จุดประสงค์:** เป็นจุดเริ่มต้นสำหรับการสร้างเครื่องมือ AI บนระบบส่งข้อความ พร้อมการตั้งค่า Environment และการจัดการ API ที่สมบูรณ์
-
-**[ดู Repository](https://github.com/welltilln/fastapi-line-gemini)**
-
----
-
-### Yosafe
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-เครื่องมือส่วนตัวสำหรับติดตามการเคลื่อนไหวของสินทรัพย์และบันทึกรายการทางการเงิน
-* **ฟีเจอร์:** สร้างขึ้นเพื่อจัดการข้อมูลความแม่นยำสูงด้วย PostgreSQL Backend เพื่อเป็นศูนย์กลางข้อมูลของสินทรัพย์ทุน
+#### [Yosafe](https://github.com/welltilln/yosafe)
+**ระบบติดตามและตรวจสอบทรัพย์สินทางการเงิน**
+*   **บทบาท:** Backend Engineer (Repository ส่วนตัว)
+*   **ผลลัพธ์:** สร้างระบบบัญชีที่มีความแม่นยำสูงสำหรับการติดตามการเคลื่อนไหวของสินทรัพย์ มั่นใจในความถูกต้องของข้อมูล 100% สำหรับการตรวจสอบ
+*   **เทคโนโลยี:** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
   <img src="../yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
 </p>
 
-*Repository ส่วนตัว*
-
----
-
-### Market Analysis Tools
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-blueviolet?style=flat-square)](#)
-
-สคริปต์เชิงปริมาณ (Quantitative) สำหรับวิเคราะห์โครงสร้างตลาดและแนวโน้มราคาโดยใช้ตรรกะในการตรวจจับ
-
-*Repository ส่วนตัว*
+#### [agent-asylum](https://github.com/welltilln/agent-asylum)
+**คลังข้อมูลวิเคราะห์ความล้มเหลวของ AI Agent**
+*   **บทบาท:** Technical Analyst
+*   **ผลลัพธ์:** ฐานข้อมูลร่วมที่รวบรวมเหตุการณ์ Logical Deadlock และความล้มเหลวทางสถาปัตยกรรมของ AI Agent แบบอัตโนมัติ
+*   **ความสำเร็จหลัก:** วิเคราะห์ความขัดแย้งเชิงระบบในกระบวนการ Tool-calling เพื่อเพิ่มความแข็งแกร่งให้กับ System Prompt
 
 <br><br><br>
 

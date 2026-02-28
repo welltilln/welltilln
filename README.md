@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
 </div>
 
 <br>
@@ -35,6 +35,10 @@
 *   **Tech Stack:** Python, FastAPI, Google Gemini Vision API, SQLite (Persistent Memory).
 *   **Key Achievement:** Implemented a persistent daily calorie tracking system with automatic midnight reset logic.
 
+<p align="center">
+  <img src="howmanycals_preview.png" alt="How Many Cals Bot Preview" width="100%">
+</p>
+
 #### [fastapi-line-gemini](https://github.com/welltilln/fastapi-line-gemini)
 **Enterprise-Grade AI Bot Boilerplate**
 *   **Role:** Systems Architect
@@ -47,6 +51,10 @@
 *   **Role:** Backend Engineer (Private Repo)
 *   **Impact:** Built a high-precision ledger system for tracking asset movements, ensuring 100% data reliability for capital auditing.
 *   **Tech Stack:** SQL (PostgreSQL), Python (TUI), Bash.
+
+<p align="center">
+  <img src="yosafe_preview.png" alt="Yosafe TUI Command Center" width="100%">
+</p>
 
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
 **AI Agent Failure Analysis Archive**
