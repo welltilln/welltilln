@@ -22,7 +22,7 @@
 <br>
 
 > [!NOTE]
-> **Global Infrastructure Standard:** 아래 주요 프로젝트들은 처음부터 5개 언어(EN, TH, ZH, JA, KO)로 문서와 UI를 갖추고 있습니다. 정확한 정보는 읽는 사람의 언어로 전달되어야 의미가 있다고 생각하기 때문입니다.
+> **Global Infrastructure Standard:** 제 주요 프로젝트들은 5개 언어(EN, TH, ZH, JA, KO)로 문서를 제공합니다.
 
 ---
 
@@ -42,11 +42,11 @@
 **LINE Bot + AI 스타터 키트**
 *   **소개:** LLM과 LINE Bot 연동을 처음부터 작성할 필요 없도록 설계한 템플릿. 코드 확장성을 중심으로 구조화했습니다.
 *   **기술:** Python, Docker, Ngrok, LINE Messaging API
-*   **특징:** 문서와 Bot 모두 처음부터 5개 언어 지원.
+*   **특징:** 5개 언어로 문서 제공. Bot 자체도 대응.
 
 #### [Yosafe](https://github.com/welltilln/yosafe)
-**자산 기록 및 감사 시스템**
-*   **소개:** 자금과 자산의 움직임을 전부 기록하고, 어떤 거래든 소급해서 검증할 수 있는 개인용 장부. 데이터 정확도 100%가 설계 원칙입니다.
+**자산 관리 시스템**
+*   **소개:** Forex 트레이딩을 하고 있어서 트레이딩의 매니 매니지먼트를 도와주는 시스템을 만들었습니다. 은행 잔액 기록도 추가하고, 이메일에서 AI로 데이터를 가져옵니다.
 *   **기술:** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
@@ -55,8 +55,8 @@
 
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
 **AI 에이전트 장애 기록**
-*   **소개:** AI 에이전트가 논리적 모순으로 멈추거나 설계 결함으로 고장 난 사례를 기록하고 분석하는 데이터베이스.
-*   **특징:** Tool 호출 흐름의 구조적 모순을 분석하여 System Prompt 개선에 활용.
+*   **소개:** AI Agent를 쓰다 보면 자주 고장나서, 어디서 고장났는지 원인이 뭐인지 기록하기 시작했습니다. 다른 사람들도 함께 기록해주면 좋겠다는 생각으로, community vibe coding 방식입니다.
+*   **특징:** 실제로 System Prompt 개선에 활용했습니다.
 
 <br><br><br>
 
@@ -153,4 +153,4 @@ graph LR
 
 <br><br>
 
-<p align="center"><i>실제 문제를 실제 데이터로, 실제로 쓸 수 있는 시스템으로 해결합니다.</i></p>
+<p align="center"><i>실제로 쓸 수 있는 것을 만드는 게 좋습니다.</i></p>

@@ -22,7 +22,7 @@
 <br>
 
 > [!NOTE]
-> **Global Infrastructure Standard:** 以下核心项目从一开始就提供 5 种语言（英、泰、中、日、韩）的文档和界面。因为我认为，准确的信息只有用读者的语言传达才有意义。
+> **Global Infrastructure Standard:** 我的主要项目都提供了 5 种语言（EN, TH, ZH, JA, KO）的文档。
 
 ---
 
@@ -42,11 +42,11 @@
 **LINE Bot + AI 现成模板**
 *   **简介：** 为想要把 LLM 接入 LINE Bot 的人设计的模板，不用从零开始写。代码结构方便后续扩展。
 *   **技术：** Python, Docker, Ngrok, LINE Messaging API
-*   **亮点：** 文档和 Bot 本身从第一天起就支持 5 种语言。
+*   **亮点：** 5 种语言文档，包括Bot本身。
 
 #### [Yosafe](https://github.com/welltilln/yosafe)
-**资产记录与审计系统**
-*   **简介：** 记录所有资金和资产的流动情况，任何一笔交易都可以追溯验证的个人账本。设计原则是数据准确率必须达到 100%。
+**资产管理系统**
+*   **简介：** 我做外汇交易，所以开发了一套帮助交易资金管理的系统。后来加上了银行余额记录，通过AI从邮件拉取数据。
 *   **技术：** SQL (PostgreSQL), Python (TUI), Bash
 
 <p align="center">
@@ -55,8 +55,8 @@
 
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
 **AI Agent 故障记录**
-*   **简介：** 记录并分析 AI Agent 因逻辑矛盾而卡死、或因设计缺陷而崩溃的案例。
-*   **亮点：** 分析了 Tool 调用流程中的结构性矛盾，用于改进 System Prompt 的稳定性。
+*   **简介：** 用AI Agent做事时经常坏，我就开始记录哪里坏了、为什么坏。希望别人也来一起记录，走 community vibe coding 的路线。
+*   **亮点：** 实际用于改进了 System Prompt。
 
 <br><br><br>
 
@@ -153,4 +153,4 @@ graph LR
 
 <br><br>
 
-<p align="center"><i>用真实数据解决真实问题，做出真正能用的系统。</i></p>
+<p align="center"><i>我喜欢做真正能用的东西。</i></p>

@@ -22,7 +22,7 @@
 <br>
 
 > [!NOTE]
-> **Global Infrastructure Standard:** Most core projects below are built with a standardized **multi-language infrastructure**, providing documentation and interfaces in 5 languages (EN, TH, ZH, JA, KO) to ensure maximum accessibility and data integrity across diverse user bases.
+> **Global Infrastructure Standard:** My core projects come with documentation in 5 languages (EN, TH, ZH, JA, KO).
 
 ---
 
@@ -44,12 +44,12 @@
 *   **Role:** Systems Architect
 *   **Impact:** Created a scalable starter kit for integrating LLMs with messaging platforms, significantly reducing development time for AI specialized tools.
 *   **Tech Stack:** Python, Docker, Ngrok, LINE Messaging API.
-*   **Key Achievement:** Standardized localization across 5 languages, demonstrating meticulous content management.
+*   **Key Achievement:** Documentation in 5 languages, both docs and the Bot itself.
 
 #### [Yosafe](https://github.com/welltilln/yosafe)
-**Financial Asset Tracking & Auditing System**
+**Financial Asset Tracking and Auditing System**
 *   **Role:** Backend Engineer (Private Repo)
-*   **Impact:** Built a high-precision ledger system for tracking asset movements, ensuring 100% data reliability for capital auditing.
+*   **Impact:** I trade Forex, so I built a system to help with Money Management for trading. Then I added bank balance tracking too, pulling data from emails via AI.
 *   **Tech Stack:** SQL (PostgreSQL), Python (TUI), Bash.
 
 <p align="center">
@@ -59,8 +59,8 @@
 #### [agent-asylum](https://github.com/welltilln/agent-asylum)
 **AI Agent Failure Analysis Archive**
 *   **Role:** Technical Analyst
-*   **Impact:** A collaborative database documenting logical deadlocks and architectural failures in autonomous AI agents.
-*   **Key Achievement:** Analyzed systemic paradoxes in tool-calling workflows to improve system prompt resilience.
+*   **Impact:** AI agents kept breaking on me, so I started documenting where they fail and why. Want others to contribute too -- going for a community vibe coding approach.
+*   **Key Achievement:** Used findings to actually improve System Prompts.
 
 ---
 
@@ -97,6 +97,6 @@ graph LR
 ```
 
 <div align="center">
-  <p><i>Leveraging data and technology to build scalable, structural solutions.</i></p>
+<p><i>I like building things that actually work.</i></p>
   <p><b>Interested in working together?</b> Let's connect on <a href="https://www.linkedin.com/in/welltilln/">LinkedIn</a></p>
 </div>
