@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=316192&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 주요 프로젝트
+### 주요 프로젝트
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
 **AI 기반 영양사 LINE 봇**

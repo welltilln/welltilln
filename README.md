@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=316192&height=250&section=header&text=Wutphaisan%20Photchanarueangdet&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Technical%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Management%20%26%20CS%20at%20CMU&descAlignY=55&descAlign=62" />
 </div>
 
 <br>
@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 Featured Projects
+### Featured Projects
 
 #### [howmanycals](https://github.com/welltilln/howmanycals)
 **AI-Powered Nutritionist LINE Bot**
@@ -64,7 +64,7 @@
 
 ---
 
-### 🛠 Technical Skill Set
+### Technical Skill Set
 
 | Category | Skills & Tools |
 | :--- | :--- |
@@ -75,7 +75,7 @@
 
 ---
 
-### 📈 GitHub Metrics
+### GitHub Metrics
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=welltilln&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="stats view" width="48%" />
@@ -84,7 +84,7 @@
 
 ---
 
-### 🧠 The Methodology
+### The Methodology
 ```mermaid
 graph LR
     A[Business Problem] --> B[Data Modeling]
